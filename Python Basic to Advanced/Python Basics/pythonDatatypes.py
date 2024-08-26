@@ -28,7 +28,7 @@ print(x12)
 print(x13)
 print(x14)
 #printing all datatypes by using type func
-print(type(x1))
+print(type(x1)) 
 print(type(x2))
 print(type(x3))
 print(type(x4))
