@@ -9,8 +9,8 @@ print(akash)
 print(anubhav)
 print(birjesh)
 #Unpacking an list
-students = ['Akash', 'Anubhav', 'Birjesh']
-std1 , std2, std3 = students
+students = ['Akash', 'Anubhav', 'Birjesh kumar']
+std1 , std2, std3 = students 
 print(std1)
 print(std2)
 print(std3)
